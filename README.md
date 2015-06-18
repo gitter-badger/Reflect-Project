@@ -1,6 +1,6 @@
 ## About
 
-Reflect-Project is a platform for managing multiple multitouch devices in a classroom. If you are one teacher with twenty-five stdeunts and anywhere from a handful of devices to a one-to-one pairing, how do you control each device without physically being there? RP is the solution - it allows a teacher to send apps and content to devices, get feedback on student's progress, and project device contents to a big screen, all with one or two taps.
+Reflect-Project is a platform for managing multiple multitouch devices in a classroom. If you are one teacher with twenty-five students and anywhere from a handful of devices to a one-to-one pairing, how do you control each device without physically being there? RP is the solution - it allows a teacher to send apps and content to devices, get feedback on student's progress, and project device contents to a big screen, all with one or two taps.
 
 ## Start
 
@@ -35,7 +35,7 @@ As long as you keep your app's state in checkerboard, it will automatically be s
 
 ## The future
 
-Obviously this readme is a bit light - a more thorough treatment/API is in order. Currently RP is in heavy development, but I am the only programmer on the team right now. The focus is iteration and functionality, so while everything works pretty well, it isn't production-ready (e.g. no authentication, security, etc.) Contributing: right now the most useful thing to do would be to develop apps that can demonstrate the functionality of the platform. Contributions to the platform itself are more than welcome; apologies in advance for the sparsely commented code. Please send me an email if you have any questions, I would be eager to talk to other developers about this project.
+Obviously this readme is a bit light - a more thorough treatment/API is in order. RP is in heavy development, but I am the only programmer on the team right now. The focus is iteration and functionality, so while everything works pretty well, it isn't production-ready (e.g. no authentication, security, etc.) Contributing: right now the most useful thing to do would be to develop apps that can demonstrate the functionality of the platform. Contributions to the platform itself are more than welcome, if you can wrap your head around it. Please send me an email if you have any questions, I would be eager to talk to other developers about this project.
 
 ## Thank you
 
